@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BinarySearch</string>
+    <string name="guess">Угадать</string>
+</resources>
